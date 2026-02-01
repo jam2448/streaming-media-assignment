@@ -1,6 +1,5 @@
 const fs = require('fs');
-const { load } = require('js-yaml');
-// const { chunk } = require('lodash');
+
 const path = require('path');
 
 const getParty = (request, response) => {
